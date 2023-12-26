@@ -19,6 +19,11 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+!**/.idea/misc.xml /**/bin/
+!**/.idea/modules.xml /**/bin/
+!**/.idea/vcs.xml /**/bin/
+!**/.idea/workspace.xml /**/bin/
+!**/clev1.iml/**/bin/
 
 
 ### NetBeans ###
