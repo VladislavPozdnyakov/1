@@ -2,8 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-**/.idea/
-**/HW Postman/
+!**/.idea/out/
+!**/HW Postman/out/
 
 ### Eclipse ###
 .apt_generated
